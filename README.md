@@ -1,7 +1,7 @@
 # b2bweb_demo
  This is a demo of a **responsible** vintage wholesale website that can be browsed online. 
- * [Click to Go - Github Pages](https://yukii-1017.github.io/b2bweb_demo/)
- * [Click to Go - Local Server](http://localhost:3001/)
+ * [Click to Go - Github Pages](https://yukii-1017.github.io/b2bweb_demo/) (not response atm for unknow reason). 
+ * Please set up local server. 
 
 ## Built with
 * `Vite.js(^2.7.2) - react - react` for interactive and fast  development
