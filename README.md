@@ -16,10 +16,10 @@
 
 
 ## Process
-*  `EACCES error` when downloading vite.js by npm.
+*  `EACCES error` when downloading vite.js by npm
     SOLVED by using `nvm` updating node.js and npm version
-* Build MPA by React.js. SOLVED by using `react-router-dom`
-*  
+* Built MPA by React.js. SOLVED by using `react-router-dom`
+* Built responsive home page, focus on the navbar functions
 
 ## Author & License
 * Yiran Ren (renyr18@outlook.com)
