@@ -1,13 +1,40 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+    font-family: 'Raleway', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#discount-bar {
+    background: linear-gradient(110deg, #fdcd3b 50%, #ffed4b 50%);
+    color: goldenrod;
+    text-align: center;
+    padding: 0.5%;
+}
+
+#discount-text {
+    font-family: 'Shadows Into Light', cursive !important;
+}
+
+#nav {
+    /*
+        background: linear-gradient(110deg,  #ddd 10%, rgba(0, 0, 0, 0) 40%), 
+                linear-gradient(70deg, rgba(0, 0, 0, 0) 25%, #ddd 70%), 
+                url('./imgs/purpleDress.JPG');
+    background-position:left;
+
+    background-repeat: no-repeat;
+    */
+
+}
+
+
+#nav-brand {
+    margin-left: 4%;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+#advertise-text {
+    font-family: 'Luxurious Roman', cursive;
+
 }
