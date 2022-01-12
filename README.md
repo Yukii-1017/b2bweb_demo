@@ -1,7 +1,8 @@
 # b2bweb_demo
  This is a demo of a **responsible** vintage wholesale website that can be browsed online. 
  * [Click to Go - Github Pages](https://yukii-1017.github.io/b2bweb_demo/) (not response atm for unknow reason). 
- * Please set up local server. 
+ * [Click to Go - University Server](https://tz36.host.cs.st-andrews.ac.uk) 
+ * Can be set up on local server by running: npm run dev
 
 ## Built with
 * `Vite.js(^2.7.2) - react - react` for interactive and fast  development
