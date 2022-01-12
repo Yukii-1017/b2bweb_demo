@@ -15,7 +15,7 @@
 * `Google Fonts` for fonts
 
 
-## Process
+## Issues may face with 
 *  `EACCES error` when downloading vite.js by npm
     SOLVED by using `nvm` updating node.js and npm version
 * Built MPA by React.js. SOLVED by using `react-router-dom`
