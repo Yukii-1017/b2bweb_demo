@@ -1,5 +1,9 @@
 /**
- * Make Navabr
+ * Make Navabr, including:    
+ * 1. discount bar
+ * 2. logo link
+ * 3. collapse button
+ * 4. navbar buttons with dropdown menu and search bar
  * 
  * TODO: 
  * 1. collapse cannot un-dropdown itself when clicking mutilple ones
@@ -53,11 +57,7 @@ const logTags = {
 
 
 /**
- * Including navbar components, including:    
- * 1. discount bar
- * 2. logo link
- * 3. collapse button
- * 4. navbar buttons with dropdown menu and search bar
+ * navbar components
  * @returns 
  */
 const Navbar = () => {

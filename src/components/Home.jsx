@@ -2,7 +2,7 @@
  * Make home page
  * TODO: 
  * 1. scrolling advertise area
- * 2. 
+ * 2. Item showcase 
  */
 import React from 'react'
 import logo from '../imgs/logo.jpg';

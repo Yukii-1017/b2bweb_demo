@@ -1,3 +1,6 @@
+/**
+ * Footer with links including join us, contact and to be a seller. 
+ */
 import React from 'react'
 
 const Footer = () => {

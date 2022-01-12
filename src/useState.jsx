@@ -1,5 +1,6 @@
 /**
- * Where to define the gloable state and maintain all components
+ * Suppose to be a place to define the gloable state and maintain all components
+ * have not been used yet
  */
 
 import { useState } from 'react'

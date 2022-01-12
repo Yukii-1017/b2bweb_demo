@@ -1,3 +1,6 @@
+/**
+ * register function 
+ */
 import React from 'react'
 
 const Registration = () => {
