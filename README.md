@@ -12,7 +12,7 @@
 ](https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/))
 * `Bootstrap5` for CSS framwork
 * `Github Pages` for publish the website online 
-* `Google Fonts` for font patterns
+* `Google Fonts` for fonts
 
 
 ## Process
